@@ -1,1 +1,22 @@
+* {
+  font-family: Roboto Mono, Comic Sans MS;
+}
 
+#page-title {
+  text-align: center;
+}
+
+.container a img {
+  margin: 0 50%;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.gold_stars {
+  border: 1px solid black;
+}
+
+.question {
+  margin-left: 10%;
+}
